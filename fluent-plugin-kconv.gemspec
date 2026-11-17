@@ -7,7 +7,6 @@ Gem::Specification.new do |gem|
   gem.name          = "fluent-plugin-kconv"
   gem.version       = Fluent::Plugin::Kconv::VERSION
   gem.authors       = ["Freddie Fujiwara"]
-  gem.email         = ["github@ze.gs"]
   gem.description   = %q{TODO: Write a gem description}
   gem.summary       = %q{TODO: Write a gem summary}
   gem.homepage      = ""
